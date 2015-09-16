@@ -11,7 +11,6 @@ end
 # -- States
 unless Spree::State.find_by_name 'PARIS'
   country = Spree::Country.find_by_name('France')
-  
   puts "[db:seed] Seeding states for France"
 
   [
@@ -116,7 +115,7 @@ unless Spree::State.find_by_name 'PARIS'
 ['GUYANE','guyane'],
 ['MARTINIQUE','martinique'],
 ['REUNION','reunion'],
-['SAINT PIERRE ET MIQUELON','saintpierreetmiquelon'],
+['SAINT PIERRE ET MIQUELON','saintpierreetmiquelon']
   ].each do |state|
     Spree::State.create!({"name"=>state[0], "abbr"=>state[1], :country=>country}, :without_protection => true)
   end
