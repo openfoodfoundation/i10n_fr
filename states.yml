@@ -1,510 +1,511 @@
 #France
-- name: AIN
+- name: Ain
   country_id: '68'
   id: '101'
-  abbr: AIN
+  abbr: 01
   
-- name: AISNE
+- name: Aisne
   country_id: '68'
   id: '102'
-  abbr: AIS
+  abbr: 02
   
-- name: ALLIER
+- name: Allier
   country_id: '68'
   id: '103'
-  abbr: ALL
+  abbr: 03
   
-- name: HAUTES ALPES
+- name: Hautes-Alpes
   country_id: '68'
   id: '104'
-  abbr: HAL
+  abbr: 05
   
-- name: ALPES DE HAUTE PROVENCE
+- name: Alpes-de-Haute-Provence
   country_id: '68'
   id: '105'
-  abbr: AHP
+  abbr: 04
   
-- name: ALPES MARITIMES
+- name: Alpes-Maritimes
   country_id: '68'
   id: '106'
-  abbr: AM
+  abbr: 06
 
-- name: ARDECHE
+- name: Ardèche
   country_id: '68'
   id: '107'
-  abbr: ARD
+  abbr: 07
 
-- name: ARDENNES
+- name: Ardennes
   country_id: '68'
   id: '108'
-  abbr: ARS
+  abbr: 08
 
-- name: ARIEGE
+- name: Ariège
   country_id: '68'
   id: '109'
-  abbr: ARI
+  abbr: 09
 
-- name: AUBE
+- name: Aube
   country_id: '68'
   id: '110'
-  abbr: AUB
+  abbr: 10
 
-- name: AUDE
+- name: Aude
   country_id: '68'
   id: '111'
-  abbr: AUD
+  abbr: 11
 
-- name: AVEYRON
+- name: Aveyron
   country_id: '68'
   id: '112'
-  abbr: AVE
+  abbr: 12
 
-- name: BOUCHES DU RHONE
+- name: Bouches-du-Rhône
   country_id: '68'
   id: '113'
-  abbr: BDR
+  abbr: 13
 
-- name: CALVADOS
+- name: Calvados
   country_id: '68'
   id: '114'
-  abbr: CAL
+  abbr: 14
 
-- name: CANTAL
+- name: Cantal
   country_id: '68'
   id: '115'
-  abbr: CAN
+  abbr: 15
 
-- name: CHARENTE
+- name: Charente
   country_id: '68'
   id: '116'
-  abbr: CHA
+  abbr: 16
 
-- name: CHARENTE MARITIME
+- name: Charente-Maritime
   country_id: '68'
   id: '117'
-  abbr: CHM
+  abbr: 17
 
-- name: CHER
+- name: Cher
   country_id: '68'
   id: '118'
-  abbr: CHE
+  abbr: 18
 
-- name: CORREZE
+- name: Corrèze
   country_id: '68'
   id: '119'
-  abbr: COR
+  abbr: 19
 
-- name: CORSE DU SUD
+- name: Corse-du-Sud
   country_id: '68'
   id: '120'
-  abbr: CDS
+  abbr: 2A
 
-- name: HAUTE CORSE
+- name: Haute-Corse
   country_id: '68'
   id: '121'
-  abbr: HCO
+  abbr: 2B
 
-- name: COTE D OR
+- name: Côte-d'Or
   country_id: '68'
   id: '122'
-  abbr: CDO
+  abbr: 21
 
-- name: COTES D ARMOR
+- name: Côtes-d'Armor
   country_id: '68'
   id: '123'
-  abbr: CDA
+  abbr: 22
 
-- name: CREUSE
+- name: Creuse
   country_id: '68'
   id: '124'
-  abbr: CRE
+  abbr: 23
 
-- name: DORDOGNE
+- name: Dordogne
   country_id: '68'
   id: '125'
-  abbr: DOR
+  abbr: 24
 
-- name: DOUBS
+- name: Doubs
   country_id: '68'
   id: '126'
-  abbr: DOU
+  abbr: 25
   
-- name: DROME
+- name: Drôme
   country_id: '68'
   id: '127'
-  abbr: DRO
+  abbr: 26
 
-- name: EURE
+- name: Eure
   country_id: '68'
   id: '128'
-  abbr: EUR
+  abbr: 27
 
-- name: EURE ET LOIR
+- name: Eure-et-Loir
   country_id: '68'
   id: '129'
-  abbr: EEL
+  abbr: 28
 
-- name: FINISTERE
+- name: Finistère
   country_id: '68'
   id: '130'
-  abbr: FIN
+  abbr: 29
 
-- name: GARD
+- name: Gard
   country_id: '68'
   id: '131'
-  abbr: GAR
+  abbr: 30
 
-- name: HAUTE GARONNE
+- name: Haute-Garonne
   country_id: '68'
   id: '132'
-  abbr: HGA
+  abbr: 31
 
-- name: GERS
+- name: Gers
   country_id: '68'
   id: '133'
-  abbr: GER
+  abbr: 32
 
-- name: GIRONDE
+- name: Gironde
   country_id: '68'
   id: '134'
-  abbr: GIR
+  abbr: 33
 
-- name: HERAULT
+- name: Hérault
   country_id: '68'
   id: '135'
-  abbr: HER
+  abbr: 34
 
-- name: ILE ET VILAINE
+- name: Ille-et-Vilaine
   country_id: '68'
   id: '136'
-  abbr: IEV
+  abbr: 35
 
-- name: INDRE
+- name: Indre
   country_id: '68'
   id: '137'
-  abbr: IND
+  abbr: 36
 
-- name: INDRE ET LOIRE
+- name: Indre-et-Loire
   country_id: '68'
   id: '138'
-  abbr: IEL
+  abbr: 37
 
-- name: ISERE
+- name: Isère
   country_id: '68'
   id: '139'
-  abbr: ISE
+  abbr: 38
 
-- name: JURA
+- name: Jura
   country_id: '68'
   id: '140'
-  abbr: JUR
+  abbr: 39
 
-- name: LANDES
+- name: Landes
   country_id: '68'
   id: '141'
-  abbr: LAN
+  abbr: 40
 
-- name: LOIR ET CHER
+- name: Loir-et-Cher
   country_id: '68'
   id: '142'
-  abbr: LEC
+  abbr: 41
 
-- name: LOIRE
+- name: Loire
   country_id: '68'
   id: '143'
-  abbr: LOI
+  abbr: 42
 
-- name: HAUTE LOIRE
+- name: Haute-Loire
   country_id: '68'
   id: '144'
-  abbr: HLO
+  abbr: 43
 
-- name: LOIRE ATLANTIQUE
+- name: Loire-Atlantique
   country_id: '68'
   id: '145'
-  abbr: LAT
+  abbr: 44
 
-- name: LOIRET
+- name: Loiret
   country_id: '68'
   id: '146'
-  abbr: LET
+  abbr: 45
 
-- name: LOT
+- name: Lot
   country_id: '68'
   id: '147'
-  abbr: LOT
+  abbr: 46
 
-- name: LOT ET GARONNE
+- name: Lot-et-Garonne
   country_id: '68'
   id: '148'
-  abbr: LEG
+  abbr: 47
 
-- name: LOZERE
+- name: Lozère
   country_id: '68'
   id: '149'
-  abbr: LOZ
+  abbr: 48
 
-- name: MAINE ET LOIRE
+- name: Maine-et-Loire
   country_id: '68'
   id: '150'
-  abbr: MEL
+  abbr: 49
 
-- name: MANCHE
+- name: Manche
   country_id: '68'
   id: '151'
-  abbr: MAN
+  abbr: 50
 
-- name: MARNE
+- name: Marne
   country_id: '68'
   id: '152'
-  abbr: MAR
+  abbr: 51
 
-- name: HAUTE MARNE
+- name: Haute-Marne
   country_id: '68'
   id: '153'
-  abbr: HMA
+  abbr: 52
 
-- name: MAYENNE
+- name: Mayenne
   country_id: '68'
   id: '154'
-  abbr: MAY
+  abbr: 53
 
-- name: MEURTHE ET MOSELLE
+- name: Meurthe-et-Moselle
   country_id: '68'
   id: '155'
-  abbr: MEM
+  abbr: 54
 
-- name: MEUSE
+- name: Meuse
   country_id: '68'
   id: '156'
-  abbr: MEU
+  abbr: 55
 
-- name: MORBIHAN
+- name: Morbihan
   country_id: '68'
   id: '157'
-  abbr: MOR
+  abbr: 56
 
-- name: MOSELLE
+- name: Moselle
   country_id: '68'
   id: '158'
-  abbr: MOS
+  abbr: 57
 
-- name: NIEVRE
+- name: Nièvre
   country_id: '68'
   id: '159'
-  abbr: NIE
+  abbr: 58
 
-- name: NORD
+- name: Nord
   country_id: '68'
   id: '160'
-  abbr: NOR
+  abbr: 59
 
-- name: OISE
+- name: Oise
   country_id: '68'
   id: '161'
-  abbr: OIS
+  abbr: 60
 
-- name: ORNE
+- name: Orne
   country_id: '68'
   id: '162'
-  abbr: ORN
+  abbr: 61
 
-- name: PAS DE CALAIS
+- name: Pas-de-Calais
   country_id: '68'
   id: '163'
-  abbr: PDC
+  abbr: 62
 
-- name: PUY DE DOME
+- name: Puy-de-Dôme
   country_id: '68'
   id: '164'
-  abbr: PDD
+  abbr: 63
 
-- name: PYRENEES ATLANTIQUES
+- name: Pyrénées-Atlantiques
   country_id: '68'
   id: '165'
-  abbr: PAT
+  abbr: 64
 
-- name: HAUTES PYRENEES
+- name: Hautes-Pyrénées
   country_id: '68'
   id: '166'
-  abbr: HPY
+  abbr: 65
 
-- name: PYRENEES ORIENTALES
+- name: Pyrénées-Orientales
   country_id: '68'
   id: '167'
-  abbr: PYO
+  abbr: 66
 
-- name: BAS RHIN
+- name: Bas-Rhin
   country_id: '68'
   id: '168'
-  abbr: BRH
+  abbr: 67
 
-- name: HAUT RHIN
+- name: Haut-Rhin
   country_id: '68'
   id: '169'
-  abbr: HRH
+  abbr: 68
 
-- name: RHONE
+- name: Rhône
   country_id: '68'
   id: '170'
-  abbr: RHO
+  abbr: 69
 
-- name: HAUTE SAONE
+- name: Haute-Saône
   country_id: '68'
   id: '171'
-  abbr: HSA
+  abbr: 70
 
-- name: SAONE ET LOIRE
+- name: Saône-et-Loire
   country_id: '68'
   id: '172'
-  abbr: SEL
+  abbr: 71
 
-- name: SARTHE
+- name: Sarthe
   country_id: '68'
   id: '173'
-  abbr: SAR
+  abbr: 72
 
-- name: SAVOIE
+- name: Savoie
   country_id: '68'
   id: '174'
-  abbr: SAV
+  abbr: 73
 
-- name: HAUTE SAVOIE
+- name: Haute-Savoie
   country_id: '68'
   id: '175'
-  abbr: HSA
+  abbr: 74
 
-- name: PARIS
+- name: Paris
   country_id: '68'
   id: '176'
-  abbr: PAR
+  abbr: 75
 
-- name: SEINE MARITIME
+- name: Seine-Maritime
   country_id: '68'
   id: '177'
-  abbr: SMA
+  abbr: 76
 
-- name: SEINE ET MARNE
+- name: Seine-et-Marne
   country_id: '68'
   id: '178'
-  abbr: SEM
+  abbr: 77
 
-- name: YVELINES
+- name: Yvelines
   country_id: '68'
   id: '179'
-  abbr: YVE
+  abbr: 78
 
-- name: DEUX SEVRES
+- name: Deux-Sèvres
   country_id: '68'
   id: '180'
-  abbr: DSE
+  abbr: 79
 
-- name: SOMME
+- name: Somme
   country_id: '68'
   id: '181'
-  abbr: SOM
+  abbr: 80
 
-- name: TARN
+- name: Tarn
   country_id: '68'
   id: '182'
-  abbr: TAR
+  abbr: 81
 
-- name: TARN ET GARONNE
+- name: Tarn-et-Garonne
   country_id: '68'
   id: '183'
-  abbr: TEG
+  abbr: 82
 
-- name: VAR
+- name: Var
   country_id: '68'
   id: '184'
-  abbr: VAR
+  abbr: 83
 
-- name: VAUCLUSE
+- name: Vaucluse
   country_id: '68'
   id: '185'
-  abbr: VAU
+  abbr: 84
 
-- name: VENDEE
+- name: Vendée
   country_id: '68'
   id: '186'
-  abbr: VEN
+  abbr: 85
 
-- name: VIENNE
+- name: Vienne
   country_id: '68'
   id: '187'
-  abbr: VIE
+  abbr: 86
 
-- name: HAUTE VIENNE
+- name: Haute-Vienne
   country_id: '68'
   id: '188'
-  abbr: HVI
+  abbr: 87
 
-- name: VOSGES
+- name: Vosges
   country_id: '68'
   id: '189'
-  abbr: VOS
+  abbr: 88
 
-- name: YONNE
+- name: Yonne
   country_id: '68'
   id: '190'
-  abbr: YON
+  abbr: 89
 
-- name: TERRITOIRE DE BELFORT
+- name: Territoire-de-Belfort
   country_id: '68'
   id: '191'
-  abbr: TDB
+  abbr: 90
 
-- name: ESSONNE
+- name: Essonne
   country_id: '68'
   id: '192'
-  abbr: ESS
+  abbr: 91
 
-- name: HAUTS DE SEINE
+- name: Hauts-de-Seine
   country_id: '68'
   id: '193'
-  abbr: HDS
+  abbr: 92
 
-- name: SEINE SAINT DENIS
+- name: Seine-Saint-Denis
   country_id: '68'
   id: '194'
-  abbr: SSD
+  abbr: 93
 
-- name: VAL DE MARNE
+- name: Val-de-Marne
   country_id: '68'
   id: '195'
-  abbr: VDM
+  abbr: 94
 
-- name: VAL D OISE
+- name: Val-d'Oise
   country_id: '68'
   id: '196'
-  abbr: VDO
+  abbr: 95
 
-- name: MAYOTTE
+- name: Mayotte
   country_id: '68'
   id: '197'
-  abbr: MYO
+  abbr: 976
 
-- name: GUADELOUPE
+- name: Guadeloupe
   country_id: '68'
   id: '198'
-  abbr: GUA
+  abbr: 971
 
-- name: GUYANE
+- name: Guyane
   country_id: '68'
   id: '199'
-  abbr: GUY
+  abbr: 973
 
-- name: MARTINIQUE
+- name: Martinique
   country_id: '68'
   id: '200'
-  abbr: MAE
+  abbr: 972
 
-- name: REUNION
+- name: La Réunion
   country_id: '68'
   id: '201'
-  abbr: REU
+  abbr: 974
 
-- name: SAINT PIERRE ET MIQUELON
+- name: Saint-Pierre-et-Miquelon
   country_id: '68'
   id: '202'
-  abbr: SPM
+  abbr: 975
+  
